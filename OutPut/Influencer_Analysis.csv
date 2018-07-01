@@ -1,0 +1,360 @@
+,Twitter_Handle,First_Name,Last_Name,Genre,Loc,Lang,Created On,Age Of Account,Tweets,Followers,Following,Favorites Count,Average Tweets
+0,@_AnneHathaway,Anne,Hathaway,Actors,NA,Eng,09/13/2012,2116.0,2.0,280.0,0.0,0.0,2.0
+1,@IAMannalynnemcc,AnnaLynne,McCord,Actors,NA,Eng,01/16/2010,3087.0,5776.0,228690.0,502.0,2157.0,5776.0
+2,@EmmaWatson,Emma,Watson,Actors,NA,Eng,07/14/2010,2908.0,1642.0,29137201.0,382.0,991.0,1642.0
+4,@LeoDiCaprio,Leonardo,DiCaprio,Actors,NA,Eng,04/16/2010,2997.0,1283.0,19325985.0,145.0,40.0,1283.0
+5,@EvaLongoria,Eva,Baston,Actors,"Los Angeles, CA",Eng,02/02/2010,3070.0,15803.0,7692246.0,809.0,151.0,15803.0
+6,@TheRock,Dwayne,Johnson,Actors,NA,Eng,02/11/2011,2696.0,21633.0,13038636.0,242.0,142.0,21633.0
+7,@jessicaalba,Jessica,Alba,Actors,NA,Eng,11/24/2009,3140.0,6244.0,9649526.0,1359.0,1443.0,6244.0
+8,@EllenPompeo,Ellen,Pompeo,Actors,NY/LA,Eng,03/23/2013,1926.0,5211.0,1551655.0,541.0,6069.0,5211.0
+9,@JessicaCapshaw,Jessica,Capshaw,Actors,NA,Eng,05/05/2011,2613.0,4017.0,935876.0,348.0,86.0,4017.0
+10,@sarahdrew,Sarah,Drew,Actors,NA,Eng,11/14/2009,3150.0,9611.0,822448.0,201.0,622.0,9611.0
+11,@IamSandraOh,Sandra,Oh,Actors,,Eng,09/20/2013,1744.0,578.0,1005654.0,21.0,14.0,578.0
+12,@SaraRamirez,Sara,Ramirez,Actors,NA,Eng,07/30/2013,1796.0,7990.0,820788.0,800.0,6521.0,7990.0
+13,@iJesseWilliams,Jesse,Williams,Actors,NA,Eng,04/12/2009,3367.0,19834.0,2400012.0,3531.0,5700.0,19834.0
+14,@TheRealKMcKidd,Kevin,McKidd,Actors,NA,Eng,04/05/2009,3374.0,7614.0,771068.0,503.0,386.0,7614.0
+15,@KatieHeigl,Katherine,Heigl,Actors,Utah / Toronto,Eng,11/03/2009,3161.0,8474.0,1325721.0,117.0,3120.0,8474.0
+16,@JasonWGeorge,Jason,George,Actors,NA,Eng,09/19/2012,2110.0,4306.0,236868.0,697.0,3018.0,4306.0
+17,@chy_leigh,Chyler,Leigh,Actors,NA,Eng,03/02/2014,1581.0,5811.0,301906.0,427.0,5544.0,5811.0
+18,@katewalsh,Kate,Walsh,Actors,NA,Eng,08/30/2009,3226.0,18109.0,894903.0,828.0,3541.0,18109.0
+19,@KellyMcCreary,Kelly,McCreary,Actors,NA,Eng,12/26/2011,2378.0,4045.0,256592.0,524.0,11748.0,4045.0
+20,@IWashington,Isaiah,Washington,Actors,Everywhere I tweet...,Eng,02/06/2011,2702.0,29863.0,98693.0,7485.0,11407.0,29863.0
+21,@DohertyShannen,Shannen,Doherty,Actors,NA,Eng,03/02/2010,3042.0,9347.0,584094.0,611.0,3618.0,9347.0
+22,@shenaegrimes,Shenae,Grimes,Actors,NA,Eng,03/13/2010,3032.0,5712.0,228925.0,85.0,97.0,5712.0
+23,@JessicaLStroup,Jessica,Stroup,Actors,NA,Eng,04/23/2010,2991.0,1682.0,199278.0,330.0,759.0,1682.0
+24,@MattLanter,Matt,Lanter,Actors,Everywhere,Eng,11/12/2009,3152.0,8770.0,458219.0,403.0,2393.0,8770.0
+25,@MACKWILDS,Tristan,Wilds,Actors,,Eng,03/03/2009,3406.0,42828.0,182120.0,1999.0,1103.0,42828.0
+26,@EmilyVanCamp,Emily,VanCamp,Actors,NA,Eng,05/22/2011,2596.0,1591.0,555777.0,235.0,99.0,1591.0
+27,@Gabriel_Mann,Gabriel,Mann,Actors,NA,Eng,05/11/2010,2973.0,14827.0,262230.0,997.0,24281.0,14827.0
+28,@Nick_Wechsler,Nick,Wechsler,Actors,NA,Eng,06/17/2013,1840.0,4513.0,151994.0,1201.0,10817.0,4513.0
+29,@christabrittany,Christa,Allen,Actors,Los Angeles,Eng,08/18/2010,2874.0,1481.0,110133.0,454.0,613.0,1481.0
+30,@smashleybell,Ashley,Madekwe,Actors,London girl living in LA,Eng,05/13/2009,3335.0,22423.0,119922.0,579.0,3118.0,22423.0
+31,@BarrySloane,Barry,Sloane,Actors,NA,Eng,02/06/2011,2701.0,9175.0,130597.0,1144.0,7581.0,9175.0
+32,@MichaelEmerson,Michael,Emerson,Actors,NA,Eng,03/30/2016,823.0,304.0,40037.0,31.0,264.0,304.0
+33,@AmyAcker,Amy,Acker,Actors,LA/BK,Eng,04/19/2010,2995.0,1888.0,262502.0,102.0,1316.0,1888.0
+34,@sarahshahi,Sarah,Shahi,Actors,"Los Angeles, CA",Eng,11/25/2009,3139.0,8725.0,241747.0,193.0,1616.0,8725.0
+35,@TherealTaraji,Taraji,Henson,Actors,NA,Eng,10/22/2009,3173.0,21631.0,5359036.0,770.0,527.0,21631.0
+36,@TaySchilling,Taylor,Schilling,Actors,NA,Eng,04/20/2012,2262.0,658.0,657879.0,453.0,79.0,658.0
+37,@LauraPrepon,Laura,Prepon,Actors,NA,Eng,10/19/2010,2811.0,1977.0,897751.0,132.0,1118.0,1977.0
+38,@UzoAduba,Uzo,Aduba,Actors,Villa Villekulla,Eng,11/09/2010,2791.0,10729.0,491056.0,349.0,13131.0,10729.0
+39,@nlyonne,Natasha,Lyonne,Actors,NA,Eng,09/24/2013,1740.0,12534.0,337862.0,1063.0,42553.0,12534.0
+40,@thedanieb,Danielle,Brooks,Actors,Somewhere over the Rainbow,Eng,09/03/2012,2126.0,9039.0,372426.0,403.0,11927.0,9039.0
+41,@Lavernecox,Laverne,Cox,Actors,facebook.com/lavernecoxforreal,Eng,08/05/2009,3251.0,20143.0,684154.0,2410.0,21923.0,20143.0
+42,@chrisrock,Chris,Rock,Comedians,NA,Eng,01/14/2011,2724.0,2082.0,5385166.0,248.0,381.0,2082.0
+43,@JerrySeinfield,Jerry,Seinfield,Comedians,NA,Eng,12/31/2009,3103.0,2.0,81.0,0.0,0.0,2.0
+44,@therealroseanne,Roseanne,Barr,Comedians,NA,Eng,03/28/2011,2651.0,9881.0,889664.0,7360.0,195063.0,9881.0
+45,@TheLewisBlack,Lewis,Black,Comedians,NA,Eng,07/29/2011,2528.0,3469.0,337633.0,211.0,107.0,3469.0
+46,@MelBrooks,Mel,Brooks,Comedians,,Eng,04/23/2013,1895.0,423.0,223043.0,0.0,454.0,423.0
+47,@JimCarrey,Jim,Carrey,Comedians,NA,Eng,06/30/2009,3287.0,4336.0,18592949.0,1.0,9.0,4336.0
+48,@KevinHart4real,Kevin,Hart,Comedians,Philly/LA,Eng,03/07/2009,3403.0,37001.0,35251925.0,555.0,87.0,37001.0
+49,@hannibalburess,Hannibal,Buress,Comedians,NA,Eng,03/30/2009,3379.0,2710.0,1012937.0,2409.0,7310.0,2710.0
+50,@StephenAtHome,Stephen,Colbert,Comedians,NA,Eng,09/15/2008,3575.0,5752.0,18528655.0,25.0,4.0,5752.0
+51,@billburr,Bill,Burr,Comedians,NA,Eng,06/16/2010,2936.0,12957.0,1104923.0,356.0,58.0,12957.0
+52,@davidcrosss,David,Cross,Comedians,,Eng,12/03/2015,941.0,6372.0,137450.0,263.0,65276.0,6372.0
+53,@ofctimallen,Tim,Allen,Comedians,NA,Eng,04/27/2009,3351.0,1173.0,339988.0,34.0,1.0,1173.0
+54,@JimBreuer,Jim,Breuer,Comedians,NA,Eng,08/21/2008,3601.0,10187.0,134625.0,3922.0,1057.0,10187.0
+55,@ericandre,Eric,Andre,Comedians,,Eng,03/27/2009,3383.0,266.0,434728.0,521.0,25292.0,266.0
+56,@SandraBernhard,Sandra,Bernhard,Comedians,New York,Eng,04/24/2009,3355.0,24391.0,256080.0,566.0,31.0,24391.0
+57,@BillyCrystal,Billy,Crystal,Comedians,,Eng,03/30/2011,2649.0,657.0,664521.0,36.0,14.0,657.0
+58,@arjbarker,Arj,Barker,Comedians,NA,Eng,10/24/2008,3537.0,6939.0,161287.0,346.0,8.0,6939.0
+59,@RealCarrotTop,Scott,Thompson,Comedians,,Eng,04/16/2009,3363.0,7065.0,66778.0,517.0,3276.0,7065.0
+60,@PreacherLawson,Preacher,Lawson,Comedians,"Los Angeles, CA",Eng,12/07/2010,2762.0,4336.0,38783.0,275.0,9117.0,4336.0
+61,@attell,Dave,Attell,Comedians,NA,Eng,06/03/2007,4045.0,1812.0,371907.0,400.0,5801.0,1812.0
+62,@ElayneBoosler,Elayne,Boosler,Comedians,,Eng,10/01/2009,3194.0,23785.0,34451.0,5850.0,31375.0,23785.0
+63,@Ornyadams,Orny,Adams,Comedians,,Eng,08/24/2008,3598.0,24661.0,415740.0,271.0,12357.0,24661.0
+64,@amyschumer,Amy,Schumer,Comedians,nyc,Eng,07/09/2009,3279.0,9436.0,4749813.0,2022.0,12781.0,9436.0
+65,@SarahKSilverman,Sarah,Silverman,Comedians,NA,Eng,04/11/2009,3368.0,12374.0,12864559.0,1232.0,16187.0,12374.0
+66,@TheEllenShow,Ellen,DeGeneres,Comedians,California,Eng,08/14/2008,3608.0,16960.0,78041432.0,35737.0,954.0,16960.0
+67,@chelseahandler,Chelsea,Handler,Comedians,"Los Angeles, CA",Eng,02/01/2009,3436.0,8625.0,8787322.0,360.0,2940.0,8625.0
+68,@TigNotaro,Tig,Notaro,Comedians,@drewjanda,Eng,07/01/2015,1095.0,9519.0,98725.0,3513.0,13779.0,9519.0
+69,@mariabamfoo,Maria,Bamford,Comedians,"Los Angeles, CA",Eng,10/11/2010,2819.0,7412.0,202080.0,255.0,51189.0,7412.0
+70,@margaretcho,Margaret,Cho,Comedians,"Hollywood, Los Angeles",Eng,09/16/2008,3575.0,28409.0,500144.0,99743.0,48126.0,28409.0
+71,@WhoopiGoldberg,Whoopi,Goldberg,Comedians,,Eng,04/19/2011,2629.0,4264.0,1371435.0,629.0,54.0,4264.0
+72,@ilanusglazer,Ilana,Glazer,Comedians,NA,Eng,11/21/2016,586.0,3.0,9.0,12.0,0.0,3.0
+73,@aparnapkin,Aparna,Nancheria,Comedians,NA,Eng,01/02/2008,3832.0,23623.0,482925.0,3167.0,34149.0,23623.0
+74,@LisaLampanelli,Lisa,Lampanelli,Comedians,NA,Eng,01/26/2009,3442.0,13811.0,554012.0,13019.0,82.0,13811.0
+75,@kathygriffin,Kathy,Griffin,Comedians,,Eng,02/17/2009,3420.0,16753.0,2128337.0,376.0,26104.0,16753.0
+76,@cameronesposito,Cameron,Esposito,Comedians,NA,Eng,05/13/2009,3335.0,21652.0,132711.0,1347.0,12879.0,21652.0
+77,@WhitneyCummings,Whitney,Cummings,Comedians,NA,Eng,04/01/2009,3377.0,11532.0,1279088.0,582.0,8661.0,11532.0
+78,@iamsambee,Samantha,Bee,Comedians,NA,Eng,03/25/2011,2655.0,1624.0,519373.0,806.0,350.0,1624.0
+79,@chelseaperetti,Chelsea,Peretti,Comedians,Los Angeles,Eng,09/29/2009,3197.0,33405.0,975849.0,1361.0,76111.0,33405.0
+80,@mindykaling,Mindy,Kaling,Comedians,NA,Eng,03/10/2009,3400.0,17270.0,12133887.0,842.0,21518.0,17270.0
+81,@dopequeenpheebs,Phoebe,Robinson,Comedians,"Brooklyn, NY",Eng,03/14/2009,3396.0,94.0,73255.0,2482.0,39580.0,94.0
+82,@iliza,Iliza,Shiesinger,Comedians,"Hollywood, CA",Eng,02/15/2009,3422.0,49164.0,170278.0,468.0,27095.0,49164.0
+83,@aliwong,Ali,Wong,Comedians,NA,Eng,06/15/2009,3302.0,2090.0,115708.0,686.0,6523.0,2090.0
+84,@msjwilly,Jessica,Williams,Comedians,NA,Eng,04/17/2008,3726.0,1813.0,304764.0,473.0,3560.0,1813.0
+85,@JenKirkman,Jen,Kirkman,Comedians,NA,Eng,01/19/2009,3450.0,911.0,258697.0,1064.0,35059.0,911.0
+86,@taylorswift13,Taylor,Swift,Musicians,NA,Eng,12/06/2008,3493.0,100.0,85527950.0,0.0,458.0,100.0
+87,@ArianaGrande,Ariana,Grande,Musicians,ǝʌɐ uooɯʎǝuoɥ,Eng,04/23/2009,3356.0,41409.0,57651272.0,64060.0,34155.0,41409.0
+88,@edsheeran,Ed,Sheeran,Musicians,London,Eng,10/26/2009,3169.0,29290.0,20111828.0,0.0,14.0,29290.0
+89,@BrunoMars,Bruno,Mars,Musicians,NA,Eng,12/29/2009,3105.0,4354.0,42913704.0,109.0,268.0,4354.0
+90,@selenagomez,Selena,Gomez,Musicians,NA,Eng,03/09/2009,3401.0,4374.0,57008850.0,1227.0,172.0,4374.0
+91,@katyperry,Katy,Perry,Musicians,,Eng,02/20/2009,3417.0,9219.0,109560796.0,216.0,6214.0,9219.0
+92,@carrieunderwood,Carrie,Underwood,Musicians,"Nashville, TN",Eng,10/06/2011,2459.0,4315.0,8627134.0,409.0,1718.0,4315.0
+93,@KeithUrban,Keith,Urban,Musicians,"Nashville, TN",Eng,05/15/2008,3698.0,7449.0,4380167.0,9347.0,2718.0,7449.0
+94,@PaulMcCartney,Paul,McCartney,Musicians,NA,Eng,09/16/2009,3209.0,4338.0,3956569.0,16.0,10.0,4338.0
+95,@ladygaga,Lady,Gaga,Musicians,NA,Eng,03/26/2008,3748.0,8764.0,78873362.0,127039.0,1916.0,8764.0
+97,@bobdylan,Bob,Dylan,Musicians,NA,Eng,03/03/2009,3406.0,617.0,344421.0,0.0,0.0,617.0
+98,@MileyCyrus,Miley,Cyrus,Musicians,NA,Eng,03/18/2011,2661.0,9422.0,41255514.0,390.0,289.0,9422.0
+99,@kelly_clarkson,Kelly,Clarkson,Musicians,TX,Eng,03/11/2009,3399.0,6967.0,12625916.0,102.0,88.0,6967.0
+100,@StevieWonder,Stevie,Wonder,Musicians,NA,Eng,01/29/2015,1248.0,77.0,40248.0,67.0,10.0,77.0
+101,@kanyewest,Kanye,West,Musicians,NA,Eng,07/22/2010,2900.0,504.0,28555034.0,4.0,2.0,504.0
+102,@kendricklamar,Kendrick,Lamar,Musicians,NA,Eng,03/10/2009,3399.0,4278.0,10876119.0,517.0,5.0,4278.0
+103,@OzzyOsbourne,Ozzy,Osbourne,Musicians,,Eng,03/17/2009,3392.0,4184.0,5523566.0,75.0,784.0,4184.0
+104,@WillieNelson,Willie,Nelson,Musicians,NA,Eng,08/24/2008,3597.0,132.0,664620.0,286.0,641.0,132.0
+105,@jtimberlake,Justin,Timberlake,Musicians,"Memphis, TN",Eng,03/25/2009,3384.0,3974.0,66041362.0,282.0,192.0,3974.0
+106,@ShawnMendes,Shawn,Mendes,Musicians,,Eng,09/24/2011,2471.0,14334.0,19315649.0,60620.0,6770.0,14334.0
+107,@BritneySpears,Britney,Spears,Musicians,NA,Eng,09/22/2008,3568.0,5474.0,58228625.0,386057.0,2554.0,5474.0
+108,@LukeBryanOnline,Luke,Bryan,Musicians,"Nashville, TN",Eng,10/30/2008,3530.0,4825.0,9867001.0,11511.0,2001.0,4825.0
+109,@SantanaCarlos,Carlos,Santana,Musicians,NA,Eng,03/25/2009,3384.0,1837.0,146380.0,14.0,124.0,1837.0
+110,@jlo,Jennifer,Lopez,Musicians,"Bronx, NY",Eng,10/27/2009,3168.0,12817.0,45256453.0,1708.0,6809.0,12817.0
+111,@billieelish,Billie,Elish,Musicians,NA,Eng,01/27/2018,154.0,156.0,22.0,11.0,1922.0,156.0
+112,@BebeRexha,Bebe,Rexha,Musicians,"New York, NY",Eng,03/27/2009,3382.0,6880.0,1124523.0,3867.0,15649.0,6880.0
+113,@imjmichaels,Julia,Michaels,Musicians,NA,Eng,03/26/2018,96.0,1.0,285.0,0.0,0.0,1.0
+114,@CalvinHarris,Calvin,Harris,Musicians,,NA,01/05/2009,3463.0,861.0,13282664.0,3495.0,4913.0,861.0
+115,@DuaLipa,Dua,Lipa,Musicians,LONDON,Eng,06/10/2010,2942.0,8169.0,2311834.0,1251.0,10008.0,8169.0
+116,@JessGlynne,Jess,Glynne,Musicians,in the stars.,Eng,11/25/2009,3139.0,8178.0,370043.0,298.0,1487.0,8178.0
+117,@EllaHenderson,Ella,Henderson,Musicians,NA,Eng,07/22/2009,3265.0,11956.0,1155378.0,6664.0,5553.0,11956.0
+118,@samsmithworld,Sam,Smith,Musicians,NA,Eng,01/07/2012,2366.0,13378.0,7756617.0,1301.0,36023.0,13378.0
+119,@TantrumJas,Jasmine,Thompson,Musicians,UK,Eng,08/30/2011,2496.0,27567.0,133934.0,5447.0,69805.0,27567.0
+120,@ParsonJames,Parson,James,Musicians,"ÜT: 40.684189,-73.977854",Eng,02/10/2009,3427.0,12653.0,11781.0,1343.0,7757.0,12653.0
+121,@JamesArthur23,James,Arthur,Musicians,NA,Eng,08/20/2011,2506.0,15324.0,2333061.0,58096.0,8885.0,15324.0
+122,@ddlovato,Demi,Lovato,Musicians,DALLAS/LA,Eng,02/17/2009,3420.0,17082.0,57252848.0,539.0,2098.0,17082.0
+123,@ollyofficial,Olly,Murs,Musicians,,Eng,12/08/2009,3126.0,20275.0,7815665.0,2991.0,5475.0,20275.0
+124,@elliegoulding,Ellie,Goulding,Musicians,NA,Eng,02/11/2009,3427.0,19133.0,7296101.0,567.0,141.0,19133.0
+125,@IGGYAZALEA,Iggy,Azalea,Musicians,"California, USA",Eng,06/09/2010,2943.0,47770.0,8084278.0,6509.0,4226.0,47770.0
+126,@TinieTempah,Tinie,Tempah,Musicians,"London, England",Eng,02/27/2009,3411.0,25343.0,1912096.0,1915.0,18146.0,25343.0
+127,@chrisbrown,Chris,Brown,Musicians,,Eng,03/03/2010,3041.0,4178.0,29197086.0,1.0,618.0,4178.0
+128,@justinbeiber,Justin,Beiber,Musicians,NA,Eng,02/06/2012,2336.0,6.0,548127.0,3783.0,1.0,6.0
+129,@jasonderulo,Jason,Derulo,Musicians,Top of the world!,Eng,04/01/2009,3377.0,15074.0,4145687.0,14591.0,2532.0,15074.0
+130,@MeekMill,Meek,Mill,Musicians,Killadelphia,Eng,02/11/2009,3427.0,18083.0,7011916.0,1478.0,229.0,18083.0
+131,@Jumpman23,Michael,Jordan,Sports_celeb,,Eng,10/05/2010,2825.0,9204.0,3639927.0,136.0,3693.0,9204.0
+132,@kobebryant,Kobe,Bryant,Sports_celeb,NA,Eng,01/04/2013,2004.0,1509.0,14120279.0,417.0,72.0,1509.0
+133,@raylewis,Ray,Lewis,Sports_celeb,NA,Eng,11/10/2014,1328.0,5928.0,711746.0,2617.0,7365.0,5928.0
+134,@FloydMayweather,Floyd,Mayweather,Sports_celeb,"Las Vegas, NV",Eng,05/26/2009,3323.0,7647.0,8125658.0,519.0,767.0,7647.0
+135,@SHAQ,Shaq,O'Neil,Sports_celeb,TOUT-SHAQ. INSTAGRAM-SHAQ,Eng,11/18/2008,3511.0,9213.0,15268023.0,692.0,92.0,9213.0
+136,@larrybirddaily,Larry,Bird,Sports_celeb,NA,Eng,09/19/2011,2476.0,14786.0,3184.0,0.0,1193.0,14786.0
+137,@RealBillRussell,Bill,Russell,Sports_celeb,NA,Eng,09/25/2017,278.0,247.0,76404.0,143.0,35.0,247.0
+138,@tonyparker,Tony,Parker,Sports_celeb,NA,Eng,10/04/2009,3191.0,2410.0,2227800.0,125.0,109.0,2410.0
+139,@Cristiano,Cristiano,Ronaldo,Sports_celeb,Madrid,NA,06/14/2010,2938.0,3211.0,74139145.0,99.0,0.0,3211.0
+140,@serenawilliams,Serena,Williams,Sports_celeb,Somewhere over the Rainbow,Eng,03/25/2009,3384.0,14251.0,10902684.0,359.0,353.0,14251.0
+141,@YaoMing,Yao,Ming,Sports_celeb,NA,Eng,10/27/2009,3168.0,186.0,216279.0,50.0,34.0,186.0
+142,@rogerfederer,Roger,Federer,Sports_celeb,NA,Eng,04/08/2013,1909.0,1618.0,12381725.0,82.0,697.0,1618.0
+143,@KingJames,LeBron,James,Sports_celeb,NA,Eng,03/06/2009,3403.0,5822.0,41784357.0,181.0,122.0,5822.0
+144,@carmeloanthony,Carmello,Anthony,Sports_celeb,WORLDWIDE,Eng,05/25/2009,3323.0,2815.0,9414434.0,302.0,42.0,2815.0
+145,@KDTrey5,Kevin,Durant,Sports_celeb,NA,Eng,04/28/2009,3351.0,23239.0,17649135.0,1456.0,107.0,23239.0
+146,@alleniverson,Allen,Iverson,Sports_celeb,NA,Eng,02/05/2009,3432.0,1069.0,1128955.0,79.0,3.0,1069.0
+147,@TheNotoriousMMA,Connor,McGregor,Sports_celeb,"Dublin, Ireland",Eng,09/07/2011,2488.0,6582.0,7226671.0,550.0,3517.0,6582.0
+148,@TigerWoods,Tiger,Woods,Sports_celeb,NA,Eng,04/17/2009,3361.0,805.0,6446533.0,24.0,24.0,805.0
+149,@OBJ_3,Odell,Beckham Jr,Sports_celeb,,Eng,09/27/2011,2469.0,7565.0,3694210.0,988.0,242.0,7565.0
+150,@Kaepernick7,Colin,Kappernick,Sports_celeb,NA,Eng,06/06/2009,3312.0,11088.0,1804144.0,107.0,169.0,11088.0
+151,@MariaSharapova,Maria,Sharapova,Sports_celeb,NA,NA,04/26/2011,2622.0,3476.0,8791614.0,79.0,1657.0,3476.0
+152,@MiaHamm,Mia,Hamm,Sports_celeb,NA,Eng,07/22/2011,2535.0,3053.0,183864.0,250.0,53.0,3053.0
+153,@HollyHolm,Holly,Holm,Sports_celeb,NA,Eng,08/17/2013,1779.0,1542.0,349887.0,102.0,600.0,1542.0
+154,@Sara_McMann,Sarah,Mcmann,Sports_celeb,NA,Eng,06/04/2012,2217.0,3651.0,63915.0,342.0,168.0,3651.0
+155,@Bharper3407,Bryce,Harper,Sports_celeb,United States,Eng,08/23/2012,2137.0,2430.0,972407.0,22.0,1389.0,2430.0
+156,@TheJudge44,Aaron,Judge,Sports_celeb,NA,Eng,08/08/2012,2153.0,2154.0,313681.0,640.0,3525.0,2154.0
+157,@davidortiz,David,Ortiz,Sports_celeb,"Boston, MA",Eng,04/01/2009,3377.0,2223.0,1560026.0,357.0,199.0,2223.0
+158,@JeterTurn2,Derek,Jeter,Sports_celeb,,Eng,10/08/2013,1726.0,1172.0,39301.0,213.0,249.0,1172.0
+159,@AROD,Alex,Rodriguez,Sports_celeb,NA,Eng,08/04/2011,2523.0,1090.0,1233009.0,142.0,60.0,1090.0
+160,@AmericanRaceTNT,Charles,Barkley,Sports_celeb,NA,Eng,04/04/2017,452.0,196.0,11219.0,15.0,95.0,196.0
+161,@MichaelPhelps,Michael,Phelps,Sports_celeb,NA,Eng,12/11/2010,2758.0,3581.0,2234886.0,206.0,62.0,3581.0
+162,@gabrielledoug,Gabby,Douglas,Sports_celeb,NA,Eng,04/09/2011,2640.0,6164.0,1087486.0,44921.0,5078.0,6164.0
+163,@Simone_Biles,Simone,Biles,Sports_celeb,somewhere rolling my eyes ,Eng,08/02/2010,2890.0,9909.0,1044479.0,621.0,86507.0,9909.0
+164,@MichelleWKwan,Michelle,Kwan,Sports_celeb,NA,Eng,09/25/2011,2470.0,3868.0,46262.0,1041.0,3282.0,3868.0
+165,@WayneGretzky,Wayne,Gretsky,Sports_celeb,NA,Eng,05/17/2010,2966.0,369.0,150438.0,79.0,8.0,369.0
+166,@MartinBrodeur,Martin,Brodeur,Sports_celeb,,Eng,03/25/2013,1923.0,382.0,64462.0,221.0,166.0,382.0
+167,@ToreyKrug,Torey,Krug,Sports_celeb,NA,Eng,01/27/2013,1980.0,961.0,83984.0,497.0,974.0,961.0
+168,@drose,Derrick,Rose,Sports_celeb,NA,Eng,06/19/2012,2202.0,60.0,2536196.0,34.0,8.0,60.0
+169,@KyrieIrving,Kyrie,Irving,Sports_celeb,NA,Eng,06/14/2011,2573.0,3957.0,4133240.0,811.0,42.0,3957.0
+170,@BenSimmons25,Ben,Simmons,Sports_celeb,,Eng,01/05/2013,2002.0,246.0,690526.0,115.0,4268.0,246.0
+171,@RobGronkowski,Robert,Gronkowsky,Sports_celeb,NA,Eng,04/20/2010,2993.0,3725.0,2991052.0,417.0,375.0,3725.0
+172,@Venuseswilliams,Venus,Williams,Sports_celeb,NA,Eng,06/25/2009,3292.0,4605.0,1791570.0,235.0,444.0,4605.0
+173,@AndreAgassi,Andre,Agassi,Sports_celeb,,Eng,11/11/2009,3154.0,1568.0,382258.0,511.0,161.0,1568.0
+174,@OscarDeLaHoya,Oscar,De La Hoya,Sports_celeb,"East Los Angeles, CA",Eng,08/19/2009,3237.0,13160.0,1793849.0,1121.0,50.0,13160.0
+175,@Giannis_An34,Giannis,Antetokounmpo,Sports_celeb,Milwaukee WI,Eng,01/07/2014,1636.0,873.0,497977.0,55.0,2272.0,873.0
+176,@TheRock,Dwayne,Johnson,Sports_celeb,NA,Eng,02/11/2011,2696.0,21633.0,13038639.0,242.0,142.0,21633.0
+177,@kawhileonard,Kawhi,Leonard,Sports_celeb,NA,Eng,06/23/2014,1468.0,4.0,195819.0,6.0,0.0,4.0
+178,@StephenCurry30,Steph,Curry,Sports_celeb,Worldwide,Eng,05/26/2009,3323.0,6899.0,12690839.0,720.0,609.0,6899.0
+179,@AntDavis23,Anthony,Davis,Sports_celeb,NA,Eng,06/24/2010,2928.0,4912.0,1506220.0,352.0,112.0,4912.0
+180,@KarlTowns,Karl-Anthony,Towns,Sports_celeb,Wherever BBN takes me,Eng,09/11/2009,3214.0,5495.0,386221.0,248.0,3014.0,5495.0
+181,@JohnWall,John,Wall,Sports_celeb,,Eng,04/13/2010,3001.0,25413.0,1933699.0,2986.0,1800.0,25413.0
+182,@KlayThompson,Klay,Thompson,Sports_celeb,,Eng,08/27/2013,1769.0,524.0,1165736.0,262.0,48.0,524.0
+183,@WWERomanReigns,Roman,Reigns,Sports_celeb,"Pensacola, FL (850) ",Eng,08/05/2012,2155.0,730.0,3272078.0,3.0,1557.0,730.0
+184,@M_Ryan02,Matt,Ryan,Sports_celeb,NA,Eng,04/11/2012,2271.0,632.0,319683.0,233.0,50.0,632.0
+185,@NiaJaxWWE,Nia,Jax,Sports_celeb,,Eng,06/08/2014,1483.0,11976.0,416484.0,445.0,26028.0,11976.0
+186,@titoortiz,Tito,Ortiz,Sports_celeb,United States,Eng,07/09/2009,3278.0,26747.0,758686.0,6395.0,3585.0,26747.0
+187,@SpiderAnderson,Anderson,Silva,Sports_celeb,,NA,02/02/2011,2705.0,3837.0,8075221.0,389.0,57.0,3837.0
+188,@TyrodTaylor,Tyrod,Taylor,Sports_celeb,NA,Eng,03/24/2009,3385.0,4209.0,179748.0,320.0,837.0,4209.0
+189,@tonyromo,Tony,Romo,Sports_celeb,"Dallas, TX",Eng,04/25/2008,3718.0,43.0,433427.0,21.0,1241.0,43.0
+190,@bengreenfield,Ben,Greenfield,Sports_celeb,"Spokane, WA",Eng,08/11/2008,3611.0,27701.0,58789.0,94.0,11565.0,27701.0
+191,@lancearmstrong,Lance,Armstrong,Sports_celeb,NA,Eng,10/13/2008,3547.0,13040.0,3738343.0,608.0,846.0,13040.0
+192,@tonyhawk,Tony,Hawk,Sports_celeb,San Diego & world at large,Eng,02/25/2009,3412.0,11900.0,4155452.0,10685.0,348.0,11900.0
+193,@RyanSheckler,Ryan,Schekler,Sports_celeb,"San Clemente, CA",Eng,04/08/2009,3370.0,3689.0,3275931.0,323.0,1397.0,3689.0
+194,@prod84,Paul,Rodriguez,Sports_celeb,NA,Eng,06/06/2009,3312.0,7103.0,479123.0,176.0,1299.0,7103.0
+195,@BAM_MARGERA,Bam,Margera,Sports_celeb,NA,Eng,09/06/2008,3584.0,54.0,6571.0,72.0,0.0,54.0
+196,@TravisPastrana,Travis,Pastrana,Sports_celeb,NA,Eng,10/23/2009,3173.0,1779.0,930622.0,94.0,10.0,1779.0
+197,@derekhough,Derek,Hough,Sports_celeb,NA,Eng,04/11/2009,3367.0,7518.0,872320.0,46.0,187.0,7518.0
+198,@juliannehough,Julianne,Hough,Sports_celeb,Everywhere,Eng,10/03/2008,3557.0,9044.0,1292324.0,275.0,689.0,9044.0
+199,@JeffGordonWeb,Jeff,Gordon,Sports_celeb,,Eng,06/16/2009,3301.0,29665.0,1256965.0,2863.0,13081.0,29665.0
+200,@JimmyJohnson,Jimmy,Johnson,Sports_celeb,Florida Keys,Eng,08/05/2011,2521.0,7666.0,355564.0,28.0,36.0,7666.0
+201,@JohnCena,John,Cena,Sports_celeb,NA,Eng,05/08/2010,2975.0,5767.0,11583039.0,2503.0,6.0,5767.0
+202,@DanicaPatrick,Danica,Patrick,Sports_celeb,,Eng,02/18/2009,3419.0,5202.0,1937704.0,219.0,123.0,5202.0
+203,@nickdiaz209,Nick,Diaz,Sports_celeb,,Eng,05/27/2009,3321.0,1297.0,605449.0,205.0,196.0,1297.0
+204,@DaleJr,Dale,Earnhart,Sports_celeb,"Mooresville, NC",Eng,12/15/2008,3484.0,15648.0,2496445.0,742.0,17289.0,15648.0
+205,@CameronHanes,Cameron,Hanes,Sports_celeb,NA,Eng,08/23/2011,2503.0,4832.0,40354.0,23.0,19.0,4832.0
+206,@shaunwhite,Shawn,White,Sports_celeb,NA,Eng,10/16/2008,3545.0,2098.0,1841529.0,51.0,1019.0,2098.0
+207,@DjokerNole,Novak,Djokovic,Sports_celeb,,Eng,03/02/2011,2677.0,2572.0,8575324.0,729.0,759.0,2572.0
+208,@steveaustinBSR,Steve,Austin,Sports_celeb,NA,Eng,02/10/2010,3063.0,29155.0,4465946.0,734.0,102.0,29155.0
+209,@UKCoachCalipari,John,Calipari,Sports_celeb,"Lexington, KY",Eng,03/23/2009,3386.0,12979.0,1778226.0,304.0,15.0,12979.0
+210,@RSherman_25,Richard,Sherman,Sports_celeb,,Eng,03/30/2009,3379.0,16975.0,2169525.0,580.0,187.0,16975.0
+211,@CP3,Chris,Paul,Sports_celeb,NA,Eng,07/05/2009,3282.0,5842.0,7790289.0,874.0,212.0,5842.0
+212,@CaroWozniacki,Caroline,Wozniacki,Sports_celeb,Everywhere,Eng,12/02/2009,3132.0,4902.0,3192753.0,154.0,1135.0,4902.0
+213,@RondaRousey,Ronda,Rowsy,Sports_celeb,NA,Eng,06/03/2011,2584.0,13917.0,3667301.0,902.0,2352.0,13917.0
+214,@SkyDigg4,Skylar,Diggins,Sports_celeb,NA,Eng,05/19/2009,3330.0,34694.0,618393.0,857.0,2665.0,34694.0
+215,@Candace_Parker,Candice,Parker,Sports_celeb,NA,Eng,03/03/2009,3406.0,20605.0,285572.0,875.0,97.0,20605.0
+216,@criscyborg,Cris,Cyborg,Sports_celeb, cris.cyborg.llc@gmail.com,Eng,11/29/2009,3135.0,46463.0,191693.0,2131.0,12395.0,46463.0
+217,@Amanda_Leoa,Amanda,Nunez,Sports_celeb,"Coconut Creek, FL  BA, Brasil",Eng,01/16/2011,2722.0,11960.0,121486.0,379.0,8378.0,11960.0
+218,@MieshaTate,Miesha,Tate,Sports_celeb,Out looking for cupcakes...,Eng,08/18/2009,3239.0,29200.0,854231.0,943.0,12333.0,29200.0
+219,@JoelEmbiid,Joel,Embiid,Sports_celeb,Philadelphia ,Eng,11/20/2011,2414.0,2570.0,1477398.0,363.0,1220.0,2570.0
+220,@ApoloOhno,Apollo,Anton Ono,Sports_celeb,NA,Eng,07/14/2009,3273.0,14649.0,302593.0,1851.0,780.0,14649.0
+221,@usainbolt,Usain,St. Leo Bolt,Sports_celeb,"Kingston, Jamaica",Eng,06/06/2009,3311.0,5053.0,5138070.0,89.0,40.0,5053.0
+222,@blakegriffin23,Blake,Griffin,Sports_celeb,,Eng,04/22/2009,3356.0,2664.0,4528443.0,566.0,705.0,2664.0
+223,@kevinlove,Kevin,Love,Sports_celeb,,Eng,11/18/2010,2781.0,1528.0,3197195.0,435.0,270.0,1528.0
+224,@mistyonpointe,Misty,Copeland,Sports_celeb,NA,Eng,07/19/2010,2904.0,11140.0,120383.0,444.0,125.0,11140.0
+225,@MikeTyson,Mike,Tyson,Sports_celeb,,Eng,06/16/2010,2937.0,6448.0,5483854.0,364.0,484.0,6448.0
+226,@GeorgeForeman,George,Foreman,Sports_celeb,"Marshall, TX",Eng,01/30/2009,3438.0,10295.0,156923.0,82.0,6089.0,10295.0
+227,@StephMcMahon,Stephanie,Mcmahon,Sports_celeb,"Stamford, CT",Eng,02/19/2013,1958.0,5728.0,2832820.0,533.0,4102.0,5728.0
+228,@rolopez42,Robin,Lopez,Sports_celeb,"Fresno, CA",Eng,06/17/2009,3300.0,1606.0,144744.0,581.0,788.0,1606.0
+229,@DwyaneWade,Dwyane,Wade,Sports_celeb,I'm everywhere...,Eng,04/21/2009,3357.0,11215.0,8079469.0,656.0,239.0,11215.0
+230,@BizNasty2point0,Paul,Bissonette,Sports_celeb,NA,Eng,08/30/2010,2861.0,11305.0,1098910.0,2326.0,21467.0,11305.0
+231,@gracie_kron,Kron,Gracie,Sports_celeb,,Eng,07/30/2015,1067.0,7.0,2743.0,32.0,2.0,7.0
+232,@GarbiMuguruza,Garbine,Muguruza,Sports_celeb,,NA,03/01/2010,3043.0,2395.0,463074.0,229.0,1376.0,2395.0
+233,@alexmorgan13,Alex,Morgan,Sports_celeb,,Eng,04/03/2009,3375.0,5102.0,3684498.0,480.0,2117.0,5102.0
+234,@SteveNash,Steve,Nash,Sports_celeb,"Los Angeles, CA",Eng,02/09/2009,3429.0,3965.0,2773669.0,906.0,248.0,3965.0
+235,@J_No24,Josh,Norman,Sports_celeb,"Washington, DC",Eng,07/28/2012,2164.0,4828.0,212616.0,104.0,137.0,4828.0
+236,@MSkinner2016,Mikayla,Skinner,Sports_celeb,,Eng,05/26/2015,1131.0,4880.0,18340.0,531.0,11806.0,4880.0
+237,@ShawnJohnson,Shawn,Johnson,Sports_celeb,ShawnJohnson.com,Eng,04/11/2009,3368.0,11402.0,491338.0,1987.0,3895.0,11402.0
+238,@kristiyamaguchi,Kristi,Yamaguchi,Sports_celeb,NA,Eng,09/29/2009,3196.0,6568.0,63639.0,525.0,981.0,6568.0
+239,@McIlroyRory,Rory,McIlroy,Sports_celeb,Holywood/PBG/On the road,Eng,09/07/2010,2853.0,3208.0,3235782.0,382.0,994.0,3208.0
+240,@LewisHamilton,Lewis,Hamilton,Sports_celeb,All around the World!!,Eng,11/10/2010,2789.0,140.0,5403018.0,837.0,898.0,140.0
+241,@neymarjr,Neymar,Jr,Sports_celeb,NA,NA,06/22/2010,2930.0,41181.0,40482878.0,749.0,820.0,41181.0
+242,@RafaelNadal,Rafael,Nadal,Sports_celeb,Manacor,NA,07/29/2011,2528.0,2681.0,15719853.0,92.0,69.0,2681.0
+243,@GarethBale11,Gareth,Bale,Sports_celeb,,Eng,08/06/2012,2154.0,1373.0,17100328.0,114.0,47.0,1373.0
+244,@MoSalah,Mohamed,Salah,Sports_celeb,"Liverpool, England",Eng,03/09/2014,1574.0,1050.0,6536452.0,153.0,10.0,1050.0
+245,@keinishikori,Kei,Nishikori,Sports_celeb,Bradenton,Eng,11/05/2009,3159.0,3544.0,891217.0,34.0,51.0,3544.0
+246,@Canelo,Canelo,Alvarez,Sports_celeb,Mexico,NA,05/18/2010,2965.0,4780.0,1257899.0,98.0,92.0,4780.0
+247,@Aly_Raisman,Aly,Raisman,Sports_celeb,,Eng,09/13/2011,2482.0,9712.0,1126315.0,539.0,2372.0,9712.0
+248,@MikeTrout,Mike,Trout,Sports_celeb,"Millville, NJ",Eng,05/18/2010,2966.0,5420.0,2528386.0,2383.0,221.0,5420.0
+249,@realDonaldTrump,Donald,Trump,Politicians,"Washington, DC",Eng,03/18/2009,3391.0,38071.0,53091760.0,47.0,25.0,38071.0
+250,@HilaryClinton,Hilary,Clinton,Politicians,NA,Eng,03/28/2008,3746.0,1.0,53601.0,0.0,0.0,1.0
+251,@BarackObama,Barack,Obama,Politicians,NA,Eng,03/05/2007,4135.0,15517.0,103417209.0,621166.0,11.0,15517.0
+252,@BillClinton,Bill,Clinton,Politicians,NA,Eng,04/06/2013,1912.0,717.0,10270706.0,34.0,323.0,717.0
+253,@BernieSanders,Bernie,Sanders,Politicians,Vermont,Eng,11/17/2010,2782.0,10915.0,8986885.0,1525.0,960.0,10915.0
+254,@tedcruz,Ted,Cruz,Politicians,"Houston, Texas",Eng,03/06/2009,3404.0,21433.0,3225622.0,6533.0,1328.0,21433.0
+255,@JohnKasich,John,Kasich,Politicians,"Westerville, Ohio",Eng,12/10/2008,3489.0,11150.0,960883.0,10063.0,809.0,11150.0
+256,@marcorubio,Marco,Rubio,Politicians,United States,Eng,08/06/2008,3616.0,8512.0,3677633.0,2407.0,1755.0,8512.0
+257,@SecretaryCarson,Ben,Carson,Politicians,NA,Eng,02/06/2017,509.0,808.0,255132.0,52.0,32.0,808.0
+258,@JebBush,Jeb,Bush,Politicians,"Miami, FL",Eng,02/10/2010,3062.0,5026.0,1464215.0,325.0,79.0,5026.0
+259,@gov_gilmore,Jim,Gilmore,Politicians,NA,Eng,02/06/2015,1240.0,2627.0,5593.0,2053.0,915.0,2627.0
+260,@GovChristie,Chris,Christie,Politicians,"Mendham, NJ",Eng,11/16/2009,3148.0,9360.0,954400.0,582.0,63.0,9360.0
+261,@CarlyFiorina,Carly,Fiorina,Politicians,Virginia,Eng,08/14/2009,3242.0,4252.0,762602.0,50.0,108.0,4252.0
+262,@RickSantorum,Rick,Santorum,Politicians,Pittsburgh & Virginia,Eng,07/20/2009,3268.0,6310.0,300104.0,1361.0,261.0,6310.0
+263,@RandPaul,Rand,Paul,Politicians,"Bowling Green, KY",Eng,11/17/2010,2782.0,12242.0,2366421.0,479.0,818.0,12242.0
+264,@GovMikeHuckabee,Mike,Huckabee,Politicians,NA,Eng,07/13/2008,3639.0,8946.0,1073388.0,550.0,283.0,8946.0
+265,@GovernorPataki,George,Pataki,Politicians,"Peekskill, New York",Eng,10/19/2014,1350.0,2242.0,55162.0,120.0,1220.0,2242.0
+266,@LindseyGrahamSC,Lindsey,Graham,Politicians,South Carolina,Eng,12/09/2011,2395.0,7960.0,292492.0,2194.0,70.0,7960.0
+267,@BobbyJindal,Bobby,Jindal,Politicians,"Baton Rouge, LA",Eng,10/31/2008,3530.0,3486.0,255915.0,20153.0,1.0,3486.0
+268,@lessig,Lawrence,Lessig,Politicians,"Brookline, MA",Eng,12/20/2007,3845.0,12628.0,372834.0,306.0,48.0,12628.0
+269,@LincolnChafee,Lincoln,Chafee,Politicians,Rhode Island,Eng,11/13/2009,3151.0,3613.0,20876.0,504.0,10.0,3613.0
+270,@JimWebbUSA,Jim,Webb,Politicians,United States,Eng,08/19/2014,1411.0,1957.0,26578.0,5851.0,3146.0,1957.0
+271,@ScottWalker,Scott,Walker,Politicians,"Wisconsin, USA",Eng,04/21/2009,3358.0,12461.0,285698.0,198.0,13.0,12461.0
+272,@SecretaryPerry,Rick,Perry,Politicians,"Washington, DC",Eng,02/10/2017,505.0,1629.0,68182.0,222.0,490.0,1629.0
+273,@JoeBiden,Joe,Biden,Politicians,NA,Eng,03/11/2007,4129.0,1440.0,2873737.0,23.0,0.0,1440.0
+274,@SenGillibrand,Kirsten,Gillibrand,Politicians,New York,Eng,09/07/2009,3219.0,16197.0,1255616.0,512.0,418.0,16197.0
+275,@SenWarren,Elizabeth,Warren,Politicians,NA,Eng,11/25/2012,2043.0,3255.0,4527628.0,258.0,9.0,3255.0
+276,@CoryBooker,Cory,Booker,Politicians,"Newark, NJ",Eng,08/11/2008,3610.0,61912.0,4121000.0,93053.0,91.0,61912.0
+277,@SenSherrodBrown,Sherrod,Brown,Politicians,NA,Eng,06/01/2009,3316.0,4828.0,354128.0,205.0,56.0,4828.0
+278,@KamalaHarris,Kamala,Harris,Politicians,California,Eng,04/11/2009,3368.0,8286.0,1620562.0,717.0,213.0,8286.0
+279,@AKWeissman,Andrew,Weissman,Politicians,"San Antonio, Texas",Eng,06/13/2011,2574.0,7409.0,4824.0,175.0,1647.0,7409.0
+280,@lpolgreen,Lydia,Polgreen,Politicians,"New York, NY ",Eng,11/04/2008,3525.0,1719.0,104090.0,1190.0,26218.0,1719.0
+281,@Schriock1,Stephanie,Schriock,Politicians,NA,Eng,07/05/2009,3282.0,5856.0,20354.0,1150.0,162.0,5856.0
+282,@ninaturner,Nina,Turner,Politicians,"Cleveland, OH",Eng,09/09/2010,2851.0,35681.0,146937.0,5299.0,70791.0,35681.0
+283,@MassAGO,Maura,Healey,Politicians,Massachusetts,Eng,02/27/2009,3410.0,8661.0,79500.0,2182.0,2786.0,8661.0
+284,@susanamendoza10,Susana,Mendoza,Politicians,"Chicago, IL",Eng,03/05/2009,3404.0,4232.0,8872.0,3752.0,1987.0,4232.0
+285,@BrianBallard723,Brian,Ballard,Politicians,NA,Eng,10/13/2013,1721.0,462.0,891.0,211.0,327.0,462.0
+286,@nick_ayers,Nick,Ayers,Politicians,,Eng,06/29/2009,3288.0,2793.0,15035.0,1745.0,2356.0,2793.0
+287,@JohnMorganESQ,John,Morgan,Politicians,,Eng,12/05/2010,2764.0,8468.0,62792.0,420.0,2337.0,8468.0
+288,@SenJohnMcCain,John,McCain,Politicians,"Phoenix, AZ / Washington, DC",Eng,01/23/2009,3445.0,14343.0,3387187.0,377.0,99.0,14343.0
+289,@GeorgeHWBush,George,H.W. Bush,Politicians,NA,Eng,01/27/2012,2346.0,104.0,338740.0,20.0,1.0,104.0
+290,@TheBushCenter,George,W. Bush,Politicians,NA,Eng,05/26/2010,2957.0,8365.0,124590.0,517.0,1537.0,8365.0
+291,@SpeakerRyan,Paul,Ryan,Politicians,NA,Eng,01/12/2009,3456.0,14515.0,3654125.0,264.0,466.0,14515.0
+292,@CarterCenter,Jimmy,Carter,Politicians,Worldwide (HQ in Atlanta),Eng,10/09/2009,3186.0,8475.0,55143.0,2016.0,3993.0,8475.0
+293,@farenthold,Blake,Farenthold,Politicians,"Corpus Christi, TX",Eng,12/05/2008,3494.0,6604.0,20969.0,1037.0,108.0,6604.0
+294,@MooreSenate,Roy,Moore,Politicians,NA,Eng,06/29/2014,1463.0,70.0,52.0,105.0,46.0,70.0
+295,@MittRomney,Mitt,Romney,Politicians,"Holladay, UT",Eng,06/23/2009,3294.0,1709.0,2052016.0,310.0,6.0,1709.0
+296,@Schwarzenegger,Arnold,Schwarzenegger,Politicians,"Los Angeles, California",Eng,01/09/2008,3825.0,5917.0,4467063.0,279.0,347.0,5917.0
+297,@USAGSessions,Jeff,Sessions,Politicians,NA,Eng,11/18/2016,589.0,1098.0,18793.0,14.0,53.0,1098.0
+298,@RepJohnConyers,John,Conyers,Politicians,Detroit/Washington D.C.,Eng,04/30/2010,2983.0,3356.0,43255.0,842.0,726.0,3356.0
+299,@dickcheney,Dick,Cheney,Politicians,NA,Eng,04/05/2007,4104.0,11.0,3817.0,7.0,1.0,11.0
+300,@GregForMontana,Greg,Gianforte,Politicians,NA,Eng,08/13/2015,1052.0,1185.0,7240.0,1231.0,23.0,1185.0
+301,@The_Tim_Murphy,Tim,Murphy,Politicians,NA,Eng,07/27/2014,1434.0,300.0,10688.0,12.0,4.0,300.0
+302,@JohnKerry,John,Kerry,Politicians,NA,Eng,06/04/2008,3678.0,2401.0,3317096.0,573.0,29.0,2401.0
+303,@jaredpolis,Jared,Polis,Politicians,"Boulder, CO",Eng,07/09/2008,3644.0,6131.0,50146.0,4794.0,7889.0,6131.0
+304,@PaulManafort,Paul,Manafort,Politicians,NA,Eng,03/19/2016,833.0,159.0,82668.0,95.0,4.0,159.0
+305,@PressSec,Sarah,Sanders,Politicians,NA,Eng,01/10/2017,536.0,2124.0,3081902.0,250.0,450.0,2124.0
+306,@SarahPalinUSA,Sarah,Palin,Politicians,NA,Eng,08/13/2009,3243.0,13787.0,1527387.0,138.0,22.0,13787.0
+307,@BarneyFrank,Barney,Frank,Politicians,NA,Eng,07/23/2013,1804.0,224.0,21976.0,100.0,37.0,224.0
+308,@DavidCameron,David,Cameron,Politicians,NA,Eng,12/19/2007,3846.0,14543.0,1195.0,506.0,6241.0,14543.0
+309,@VP,Mike,Pence,Politicians,"Washington, D.C.",Eng,01/10/2017,536.0,4371.0,6375530.0,11.0,8.0,4371.0
+310,@algore,Al,Gore,Politicians,NA,Eng,11/06/2008,3523.0,2448.0,3290589.0,33.0,1.0,2448.0
+311,@NancyPelosi,Nancy,Pelosi,Politicians,NA,Eng,08/07/2008,3614.0,7643.0,1621738.0,326.0,10.0,7643.0
+312,@SenateMajLdr,Mitch,McConnell,Politicians,NA,Eng,03/07/2013,1941.0,3169.0,573171.0,93.0,0.0,3169.0
+313,@SenSchumer,Chuck,Schumer,Politicians,"New York, NY",Eng,11/19/2008,3510.0,13409.0,1459450.0,26166.0,209.0,13409.0
+314,@timkaine,Tim,Kaine,Politicians,"Richmond, VA",Eng,07/30/2010,2892.0,9478.0,1008447.0,774.0,643.0,9478.0
+315,@newtgingrich,Newt,Gingrich,Politicians,NA,Eng,02/12/2009,3425.0,11298.0,2207023.0,915.0,796.0,11298.0
+316,@GovRauner,Bruce,Rauner,Politicians,"Springfield, IL",Eng,11/05/2014,1333.0,3253.0,31411.0,122.0,95.0,3253.0
+317,@SenatorLeahy,Patrick,Leahy,Politicians,NA,Eng,01/25/2011,2713.0,13049.0,140218.0,2428.0,107.0,13049.0
+318,@MarkWarner,Mark,Warner,Politicians,NA,Eng,07/12/2007,4006.0,7500.0,403257.0,21277.0,1371.0,7500.0
+319,@johnrobertsFox,John,Roberts,Politicians,NA,Eng,02/16/2009,3421.0,4930.0,78376.0,448.0,42.0,4930.0
+320,@clairecmc,Claire,McCaskill,Politicians,Missouri/ Washington DC,Eng,09/06/2008,3584.0,4991.0,455397.0,34.0,11.0,4991.0
+321,@senorrinhatch,Orrin,Hatch,Politicians,,Eng,03/08/2011,2671.0,10628.0,75475.0,413.0,1211.0,10628.0
+322,@DeanBaker13,Dean,Baker,Economists,NA,Eng,07/06/2011,2551.0,29673.0,45856.0,99.0,40.0,29673.0
+323,@econjared,Jared,Bernstein,Economists,NA,Eng,05/11/2011,2607.0,6703.0,52683.0,1452.0,657.0,6703.0
+324,@NYTimesKrugman,Paul,Krugman,Economists,NA,Eng,02/08/2016,874.0,1.0,1563.0,0.0,0.0,1.0
+325,@MarkThoma,Mark,Thoma,Economists,NA,Eng,10/18/2008,3543.0,60094.0,44679.0,417.0,5.0,60094.0
+326,@umairh,Umair,Haque,Economists,NA,Eng,04/07/2008,3736.0,1101.0,231386.0,1447.0,461.0,1101.0
+327,@profsufi,Amir,Sufi,Economists,NA,Eng,10/10/2012,2089.0,3454.0,16779.0,317.0,14.0,3454.0
+328,@Nouriel,Nouriel,Roubini,Economists,NA,Eng,01/20/2009,3448.0,15429.0,449517.0,510.0,10.0,15429.0
+329,@justinwolfers,Justin,Wolfers,Economists,"Ann Arbor, MI",Eng,07/01/2011,2556.0,27506.0,146737.0,908.0,15686.0,27506.0
+330,@BetseyStevenson,Betsey,Stevenson,Economists,Ann Arbor,Eng,09/23/2011,2472.0,3862.0,31330.0,776.0,1012.0,3862.0
+331,@omzidar,Owen,Zidar,Economists,"Princeton, NJ",Eng,10/03/2008,3558.0,6025.0,5108.0,1073.0,3500.0,6025.0
+332,@Noahpinion,Noah,Smith,Economists,NA,Eng,04/14/2011,2635.0,140600.0,102042.0,811.0,211426.0,140600.0
+333,@Austan_Goolsbee,Austan,Goolsbee,Economists,Chicago,Eng,11/19/2010,2781.0,4770.0,76952.0,456.0,1605.0,4770.0
+334,@BruceBartlett,Bruce,Bartlett,Economists,NA,Eng,09/15/2011,2481.0,35314.0,61227.0,950.0,33.0,35314.0
+335,@mileskimball,Miles,kimball,Economists,NA,Eng,10/05/2009,3191.0,38933.0,16201.0,920.0,10623.0,38933.0
+336,@KingEconomist,Stephen,King,Economists,NA,Eng,07/30/2012,2161.0,4215.0,20682.0,281.0,170.0,4215.0
+337,@jodiecongirl,Jodi,Beggs,Economists,NA,Eng,04/14/2009,3364.0,38841.0,15098.0,2823.0,20129.0,38841.0
+338,@kaushikcbasu,kaushik,Basu,Economists,New York,Eng,12/02/2008,3498.0,5582.0,109901.0,643.0,2318.0,5582.0
+339,@haroldpollack,Harold,Pollack,Economists,NA,Eng,12/25/2009,3109.0,65129.0,20528.0,2426.0,7082.0,65129.0
+340,@econoflove,Shoshana,Grossbard,Economists,San Diego USA,Eng,07/06/2009,3281.0,17533.0,4153.0,2333.0,4066.0,17533.0
+341,@SBronars,Stephen,Bronars,Economists,NA,Eng,07/11/2011,2546.0,4965.0,2950.0,606.0,98.0,4965.0
+342,@joebrusuelas,Joseph,Brusuelas,Economists,New York City,Eng,01/28/2010,3075.0,21970.0,9072.0,3122.0,25109.0,21970.0
+343,@IanShepherdson,Ian,Shepherdson,Economists,NA,Eng,07/06/2011,2551.0,4291.0,11631.0,518.0,254.0,4291.0
+344,@bill_easterly,William,Easterly,Economists,New York City,Eng,04/27/2009,3351.0,13452.0,109857.0,1990.0,440.0,13452.0
+345,@AllisonSchrager,Allison,Schrager,Economists,NA,Eng,10/12/2009,3183.0,3307.0,5807.0,801.0,921.0,3307.0
+346,@RBReich,Robert,Reich,Economists,NA,Eng,05/26/2010,2957.0,8127.0,593007.0,220.0,582.0,8127.0
+348,@kyrstensinema,Kyrsten,Sinema,Social_workers,Phoenix,Eng,02/13/2009,3425.0,14483.0,33163.0,300.0,269.0,14483.0
+349,@RepBarbaraLee,Barbara,Lee,Social_workers,"Washington, DC and Oakland, CA",Eng,02/07/2011,2700.0,7896.0,186107.0,16312.0,3387.0,7896.0
+350,@MikeLICSW,Mike,Langlois,Social_workers,NA,Eng,10/04/2010,2827.0,3996.0,5948.0,6199.0,323.0,3996.0
+351,@njsmyth,Nancy,Smyth,Social_workers,"Buffalo, NY, USA",Eng,11/18/2008,3511.0,24408.0,6612.0,4832.0,4150.0,24408.0
+352,@socworkpodcast,Jonathan,Singer,Social_workers,"Chicago, IL",Eng,09/09/2009,3216.0,45358.0,14219.0,792.0,22348.0,45358.0
+353,@johannagreeson,Johanna,Greeson,Social_workers,"Philadelphia, PA",Eng,04/04/2009,3375.0,7978.0,1860.0,2582.0,182.0,7978.0
+354,@JimmySW,Jimmy,Young,Social_workers,NA,Eng,10/23/2009,3172.0,10333.0,2545.0,1996.0,2273.0,10333.0
+355,@tiziana_dearing,Tiziana,dearing,Social_workers,NA,Eng,10/28/2008,3532.0,4351.0,1456.0,430.0,1530.0,4351.0
+356,@ProfessorChic,Jamie,Mitchell,Social_workers,NA,Eng,04/04/2011,2644.0,79771.0,1457.0,572.0,24906.0,79771.0
+357,@DrKumarVishwas,Kumar,Vishwas,Social_workers,"Ghaziabad,New Delhi",Eng,05/08/2010,2975.0,26821.0,4802659.0,97.0,88099.0,26821.0
+358,@drjoekort,Joe,Kort,Social_workers,"ÜT: 42.439627,-82.892816",Eng,12/09/2008,3490.0,5525.0,2498.0,1027.0,2635.0,5525.0
+359,@BDUTT,Barkha,Dutt,Social_workers,India ,Eng,02/02/2009,3435.0,118499.0,6817361.0,1568.0,27849.0,118499.0
+360,@RaggiKotak,Raggi,Kotak,Social_workers,NA,NA,03/03/2016,849.0,942.0,340.0,399.0,1118.0,942.0
+361,@Martha7144,Martha,Campbell,Social_workers,"Belfast, Northern Ireland",Eng,08/04/2015,1061.0,445.0,332.0,1170.0,1092.0,445.0
