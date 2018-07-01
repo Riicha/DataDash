@@ -1,4 +1,4 @@
-Twitter_Handle,First_Name,Last_Name,Genre
+﻿Twitter_Handle,First_Name,Last_Name,Genre
 @_AnneHathaway,Anne,Hathaway,Actors
 @IAMannalynnemcc,AnnaLynne,McCord,Actors
 @EmmaWatson,Emma,Watson,Actors
@@ -7,7 +7,6 @@ Twitter_Handle,First_Name,Last_Name,Genre
 @EvaLongoria,Eva,Baston,Actors
 @TheRock,Dwayne,Johnson,Actors
 @jessicaalba,Jessica,Alba,Actors
-@PatrcikDempsey,Patrick,Dempsey,Actors
 @EllenPompeo,Ellen,Pompeo,Actors
 @JessicaCapshaw,Jessica,Capshaw,Actors
 @sarahdrew,Sarah,Drew,Actors
@@ -15,7 +14,6 @@ Twitter_Handle,First_Name,Last_Name,Genre
 @SaraRamirez,Sara,Ramirez,Actors
 @iJesseWilliams,Jesse,Williams,Actors
 @TheRealKMcKidd,Kevin,McKidd,Actors
-@camilluddingtun,Camilla,Luddington,Actors
 @KatieHeigl,Katherine,Heigl,Actors
 @JasonWGeorge,Jason,George,Actors
 @chy_leigh,Chyler,Leigh,Actors
@@ -43,7 +41,6 @@ Twitter_Handle,First_Name,Last_Name,Genre
 @nlyonne,Natasha,Lyonne,Actors
 @thedanieb,Danielle,Brooks,Actors
 @Lavernecox,Laverne,Cox,Actors
-@therealleadelaria,Lea,DeLaria,Actors
 @chrisrock,Chris,Rock,Comedians
 @JerrySeinfield,Jerry,Seinfield,Comedians
 @therealroseanne,Roseanne,Barr,Comedians
@@ -69,7 +66,6 @@ Twitter_Handle,First_Name,Last_Name,Genre
 @amyschumer,Amy,Schumer,Comedians
 @SarahKSilverman,Sarah,Silverman,Comedians
 @TheEllenShow,Ellen,DeGeneres,Comedians
-@iamwandaskyes,Wanda,Skyes,Comedians
 @chelseahandler,Chelsea,Handler,Comedians
 @TigNotaro,Tig,Notaro,Comedians
 @mariabamfoo,Maria,Bamford,Comedians
@@ -252,7 +248,6 @@ Twitter_Handle,First_Name,Last_Name,Genre
 @Canelo,Canelo,Alvarez,Sports_celeb
 @Aly_Raisman,Aly,Raisman,Sports_celeb
 @MikeTrout,Mike,Trout,Sports_celeb
-@DameLillard,Damian,Lillard,Sports_celeb
 @realDonaldTrump,Donald,Trump,Politicians
 @HilaryClinton,Hilary,Clinton,Politicians
 @BarackObama,Barack,Obama,Politicians
@@ -268,7 +263,6 @@ Twitter_Handle,First_Name,Last_Name,Genre
 @CarlyFiorina,Carly,Fiorina,Politicians
 @RickSantorum,Rick,Santorum,Politicians
 @RandPaul,Rand,Paul,Politicians
-@MartinO'Malley,Martin,O'Malley,Politicians
 @GovMikeHuckabee,Mike,Huckabee,Politicians
 @GovernorPataki,George,Pataki,Politicians
 @LindseyGrahamSC,Lindsey,Graham,Politicians
@@ -319,7 +313,6 @@ Twitter_Handle,First_Name,Last_Name,Genre
 @NancyPelosi,Nancy,Pelosi,Politicians
 @SenateMajLdr,Mitch,McConnell,Politicians
 @SenSchumer,Chuck,Schumer,Politicians
-@repjowrowley,Joseph,Crowley,Politicians
 @timkaine,Tim,Kaine,Politicians
 @newtgingrich,Newt,Gingrich,Politicians
 @GovRauner,Bruce,Rauner,Politicians
@@ -354,40 +347,17 @@ Twitter_Handle,First_Name,Last_Name,Genre
 @AllisonSchrager,Allison,Schrager,Economists
 @RBReich,Robert,Reich,Economists
 @TimDuy,Tim,Duy,Economists
-@MsNicoleClark,Nicole,Clark,Social_workers
 @kyrstensinema,Kyrsten,Sinema,Social_workers
 @RepBarbaraLee,Barbara,Lee,Social_workers
-@Relando_T,Relando,Thompkins,Social_workers
-(@MikeLICSW,Mike,Langlois,Social_workers
+@MikeLICSW,Mike,Langlois,Social_workers
 @njsmyth,Nancy,Smyth,Social_workers
-(@socworkpodcast,Jonathan,Singer,Social_workers
-(@johannagreeson,Johanna,Greeson,Social_workers
+@socworkpodcast,Jonathan,Singer,Social_workers
+@johannagreeson,Johanna,Greeson,Social_workers
 @JimmySW,Jimmy,Young,Social_workers
 @tiziana_dearing,Tiziana,dearing,Social_workers
-(@ProfessorChic,Jamie,Mitchell,Social_workers
-@chrisremani1 ‏,Christopher,Remani,Social_workers
-@looloolollie ‏,Laura,L,Social_workers
-@RealKHughes ‏,Katherine,Hughes,Social_workers
-@LeireAgirre4 ‏,Leire,Agirre,Social_workers
-@BeckyEBurden ‏,Rebecca,Burden,Social_workers
-@JeanneC12467841 ‏,Jeanne,Callahan,Social_workers
-@AndyPorter15 ‏,Andy,Porter,Social_workers
-@hungryghost741 ‏,Diane,NA,Social_workers
-@SWMichaelGraham ‏,Michael,Graham,Social_workers
-@sfhosali ‏,Sanchita,Hosali,Social_workers
+@ProfessorChic,Jamie,Mitchell,Social_workers
 @DrKumarVishwas,Kumar,Vishwas,Social_workers
 @drjoekort,Joe,Kort,Social_workers
 @BDUTT,Barkha,Dutt,Social_workers
 @RaggiKotak,Raggi,Kotak,Social_workers
-@Maria_Moodie ‏,Maria,Moodie,Social_workers
-@CarolStorerLAPG ‏,Carol,Storer,Social_workers
-@WendyPettifer ‏,Wendy,Pettifer,Social_workers
-@ChristianKerrSW ‏,Christian,Kerr,Social_workers
-@BrendanWhittle ‏,Brendan,Whittle,Social_workers
-@RossAbramowitz ‏,Ross,Abramowitz,Social_workers
-@oyinlolaolugbe1 ‏,Oluwagbemiga,OYINLOLA,Social_workers
 @Martha7144,Martha,Campbell,Social_workers
-@Bonesixty ‏,Jenni,Randall,Social_workers
-@mmt98 ‏,Melissa,Thompson,Social_workers
-@ojfolaranmi ‏,Funmilayo,Folaranmi,Social_workers
-@IanCummins9 ‏,Ian,Cummins,Social_workers
