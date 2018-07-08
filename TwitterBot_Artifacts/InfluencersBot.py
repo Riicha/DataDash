@@ -11,8 +11,8 @@ api = tweepy.API(auth, parser=tweepy.parsers.JSONParser())
 
 # List of handles that we are monitoring
 List_of_handles_to_monitor = ["@Riicha_r","@MonikerAsh","@ruchichandra26","@one171717","@IBaloyan","@KarnaniDeepa","@JAVillalbaUs","@JillStratton78",
-"@JonathanGroth1","@data_stew","@Mike3dup","@TheRealAndrew19","@fervis_lauan","@TuerosVeronika","@pvenk14","@JingXu35625367",
-"@MegNew2","@Pragati43524667","@WaqasIs69506672"]
+"@JonathanGroth1","@Mike3dup","@TheRealAndrew19","@fervis_lauan","@TuerosVeronika","@pvenk14","@JingXu35625367",
+"@MegNew2","@Pragati43524667","@WaqasIs69506672","@ThaDevelYouKnow"]
 
 # list of Hashtags being monitered
 Target_Hash_Tags = [    "#HarvardHealth","#WeightLoss","#Drug",'#Medicine','#inflammation','#hcsm','#digitalhealth',
@@ -75,17 +75,23 @@ quote_list = [  'From the bitterness of disease man learns the sweetness of heal
                 'The part can never be well unless the whole is well.',
                 'Health is merely the slowest way someone can die.'
                 # 'By cleansing your body on a regular basis and eliminating as many toxins as possible from your environment, your body can begin to heal itself, prevent disease, and become stronger and more resilient than you ever dreamed possible!'
-
              ]
 
 
 
-def Send_Tweet(message):
+def Send_Tweet(message,sender):
     try:
-        if (len(message) < 281):
-            api.update_status(message) # post the tweet 
-            # Monitor every 30 seconds    
-            time.sleep(5)
+        if (len(sender) > 0):
+            tweet_to_send = 'Hey '+ sender + ' thanks for your message:' + message + '. Appreciate your business. '
+            tweet_to_send = tweet_to_send[:280] + (tweet_to_send[280:] and '..')
+            # if (len(message) < 281):
+            api.retweet(message) # post the tweet 
+            api.direct_messages(sender,tweet_to_send)
+        else:
+            tweet_to_send = message[:280] + (message[280:] and '..')
+            api.update_status(tweet_to_send)
+        # Monitor every 30 seconds    
+        time.sleep(5)
     except Exception as ex:
         pass       
 
@@ -95,7 +101,7 @@ def QuoteItUp(index):
         text = quote_list[index]
         current_time = datetime.today().strftime('%Y-%m-%d')
         message = 'Today is : '+ current_time + ' Quote for today - ' + text
-        Send_Tweet(message) # send the tweet on that index number within the quote_list
+        Send_Tweet(message,'') # send the tweet on that index number within the quote_list
     
 # Match the tweet with the Hashtag
 def matcher_tweet(tweet):
@@ -107,38 +113,19 @@ def matcher_tweet(tweet):
 # Create tweet function
 def Send_user_Tweet(target_user):
     # get the tweets of the target_user (which is listed in the list List_of_handles_to_monitor)
-    public_tweets = api.user_timeline(target_user, count=10, result_type="recent")
+    public_tweets = api.user_timeline(target_user, count=2, result_type="recent", include_rts=1)
 
     for tweet in public_tweets:     
-        # Appended the tweeted tweets in the dictionery within the list all_tweet_listing
-        all_tweet_listing.append({  "Influencer":target_user,
-                                    "Tweet":tweet["text"]                                   
-                                })
+        # The matcher function is being passed to the apply() to search for tweets 
+        if(matcher_tweet(tweet["text"])):
+            Send_Tweet(tweet["text"],target_user)
 
-    # convert the dictionery into a dataframe
-    tweet_listing_pd = pd.DataFrame.from_dict(all_tweet_listing)
-        
-    # The matcher function is being passed to the apply() to search for tweets in the dictionery
-    # to find the matching hashtag in the tweets of the target user.(The function any() returns true/false.)
-    # If there is no collection found then the any() returns False 
-    Matching_Tweets = tweet_listing_pd['Tweet'].apply(matcher_tweet)
-    if (Matching_Tweets.any()):
-        for row in tweet_listing_pd.iterrows():
-            tweet_to_send = row[1]['Tweet']
-            if(matcher_tweet(tweet_to_send)):
-                Send_Tweet(tweet_to_send)
-                 
                 
 def process_tweets():
     for target_user in List_of_handles_to_monitor:
         Send_user_Tweet(target_user)
 
 
-
-
-
-
-all_tweet_listing = []
 
 Quote_Index = 0
 
